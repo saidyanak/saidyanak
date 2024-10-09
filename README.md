@@ -1,6 +1,6 @@
 ### Hello there 👋
-![Ecole42](<https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white>)(https://github.com/saidyanak)
-![C](<https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black>)(https://github.com/saidyanak)
+![Ecole42](<https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white>).(https://github.com/saidyanak)
+![C](<https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black>).(https://github.com/saidyanak)
 ![SpringBoot](<https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white>)(https://github.com/saidyanak)
 ![.NET](<https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white>)(https://github.com/saidyanak)
 ![Spring](<https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white>)(https://github.com/saidyanak)
