@@ -6,7 +6,7 @@
 [![Hibernate](<https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white>)](https://x.com/SaidYanak)
 [![Git](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>)](https://x.com/SaidYanak)
 [![GitHub](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)](https://x.com/SaidYanak)
-[![.NET](<https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white>)](https://x.com/SaidYanak)
+[![Java](<https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white>)](https://x.com/SaidYanak)
 <!--
 **saidyanak/saidyanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
