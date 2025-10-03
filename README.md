@@ -9,7 +9,7 @@
 [![GitHub](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&hide=stars&theme=dark&rank_icon=github#gh-dark-mode-only)](https://github.com/saidyanak)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&theme=dark&rank_icon=github#gh-dark-mode-only)](https://github.com/saidyanak)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=minishell&theme=dark&show_description=true)](https://github.com/saidyanak/minishell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=Rotax&theme=dark)](https://github.com/saidyanak/Rotax)
