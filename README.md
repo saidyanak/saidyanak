@@ -14,6 +14,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=minishell&theme=dark&show_description=true)](https://github.com/saidyanak/minishell)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=Rotax&theme=dark)](https://github.com/saidyanak/Rotax)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&hide=stars&theme=dark&rank_icon=github#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&hide=stars&theme=dark&rank_icon=github#gh-dark-mode-only)](https://github.com/saidyanak)
 
 </div>
