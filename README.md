@@ -12,7 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidyanak&hide=javascript,html,dart&theme=dark)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=minishell&theme=dark)](https://github.com//)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=&theme=dark)](https://github.com//)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=Rotax&theme=dark)](https://github.com/saidyanak/Rotax)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&hide=stars&theme=dark&rank_icon=github#gh-dark-mode-only)
