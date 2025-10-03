@@ -7,6 +7,7 @@
 [![Hibernate](<https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![Git](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![GitHub](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
+
 <div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidyanak&hide=javascript,html,dart&theme=dark)](https://github.com/EthanJamesLew/github-readme-stats-academic)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saidyanak&repo=minishell&theme=dark)](https://github.com/saidyanak/minishell)
