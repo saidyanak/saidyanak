@@ -8,6 +8,6 @@
 [![Git](<https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![GitHub](<https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidyanak&hide=javascript,html,dart)](https://github.com/EthanJamesLew/github-readme-stats-academic) [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=saidyanak)](https://github.com/EthanJamesLew/github-readme-stats-academic)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saidyanak&hide=javascript,html,dart)](https://github.com/EthanJamesLew/github-readme-stats-academic) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saidyanak&show_icons=true&hide=stars&theme=dark&rank_icon=github#gh-dark-mode-only)
 
 
