@@ -1,7 +1,7 @@
 ### Hello there 👋
 [![Ecole42](<https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![C](<https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black>)](https://www.linkedin.com/in/saidyanak/)
-[![C++ Badge](<https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat>)](https://www.linkedin.com/in/saidyanak/)
+[![C++ Badge](<https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge>)](https://www.linkedin.com/in/saidyanak/)
 [![SpringBoot](<https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![Spring](<https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=Spring&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
 [![Hibernate](<https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white>)](https://www.linkedin.com/in/saidyanak/)
