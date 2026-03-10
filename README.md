@@ -14,7 +14,6 @@ Backend developer focused on building scalable systems. Graduate of **42 Kocaeli
 ---
 
 [![Ecole42](https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://www.linkedin.com/in/saidyanak/)
-[![Website](https://img.shields.io/badge/saidyanak.dev-000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://saidyanak.dev)
 [![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)](https://www.linkedin.com/in/saidyanak/)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/saidyanak/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://www.linkedin.com/in/saidyanak/)
@@ -24,7 +23,11 @@ Backend developer focused on building scalable systems. Graduate of **42 Kocaeli
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://www.linkedin.com/in/saidyanak/)
 
 ---
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saidyanak&theme=github_dark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidyanak&theme=github_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=saidyanak&theme=github_dark" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidyanak&theme=github_dark" height="180"/>
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saidyanak&theme=dark&hide_border=true)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=saidyanak&theme=dark&hide_border=true" height="180"/>
+</div>
