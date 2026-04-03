@@ -6,11 +6,6 @@
 
 Backend developer focused on building scalable systems. Graduate of **42 Kocaeli** — strong C/C++ roots, Java/Spring Boot heart. Currently freelancing full-time.
 
-- 🔭 Building microservices, REST APIs, and full-stack web apps  
-- 🛠️ Stack: Java Spring Boot · Node.js · PostgreSQL · Docker · .NET  
-- 🤝 Collaborating on projects with Flutter on the frontend  
-- 🎮 Side interests: Unity game dev · Arduino/GSM hardware hacking
-
 ---
 
 [![Ecole42](https://img.shields.io/badge/42-000000.svg?style=for-the-badge&logo=42&logoColor=white)](https://www.linkedin.com/in/saidyanak/)
