@@ -28,3 +28,5 @@ Backend developer focused on building scalable systems. Graduate of **42 Kocaeli
 </div>
 
 <!-- yolo -->
+
+<!-- pair -->
