@@ -26,3 +26,5 @@ Backend developer focused on building scalable systems. Graduate of **42 Kocaeli
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=saidyanak&theme=dark&hide_border=true" height="180"/>
 </div>
+
+<!-- yolo -->
