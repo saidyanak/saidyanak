@@ -23,10 +23,6 @@ Backend developer focused on building scalable systems. Graduate of **42 Kocaeli
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saidyanak&theme=github_dark" height="180"/>
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=saidyanak&theme=dark&hide_border=true" height="180"/>
-</div>
-
 <!-- yolo -->
 
 <!-- pair -->
